@@ -14,7 +14,7 @@
 PlayerMovement script - [click here](Assets/Scripts/PlayerMovement.cs)
 ##
 
-תפקיד המחקלה Platfrom זה כשאר יש התנגשות של השחקן עם הפלטפורם אז הוא נתקע וממשיך לקפוץ לאותו גובה.
+תפקיד המחקלה Platfrom זה כשאר יש התנגשות של השחקן עם הפלטפורם אז הוא נתקע וממשיך לקפוץ לאותו גובה( בעצם כמו טרמפולינה).
 
 
 Platform script - [click here](Assets/Scripts/Platform.cs)

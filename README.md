@@ -7,4 +7,4 @@
 
 קישורים ל scripts :
 
-PlayerMovement script - (./Assets/Scripts/PlayerMovement.cs)[click here]
+PlayerMovement script - (hii)[/Assets/Scripts/PlayerMovement.cs]

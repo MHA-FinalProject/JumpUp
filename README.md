@@ -10,3 +10,5 @@
 PlayerMovement script - [click here](Assets/Scripts/PlayerMovement.cs)
 
 Platform script - [click here](Assets/Scripts/Platform.cs)
+
+CameraFollow script - [click here](Assets/Scripts/CameraFollow.cs)
